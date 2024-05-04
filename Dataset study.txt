@@ -1,0 +1,18 @@
+The data you provided appears to be a medical dataset. Here's a breakdown of the attributes:
+
+age: Patient's age
+sex: Patient's sex (1: male, 0: female)
+cp: Chest pain type (values vary based on the dataset source)
+trestbpschol: Resting blood pressure (in mmHg)
+fbs: Fasting blood sugar (> 120 mg/dL, considered abnormal) - Yes/No (1: true, 0: false)
+restecg: Resting electrocardiographic results (values vary based on the dataset source)
+thalach: Maximum heart rate achieved during exercise test
+exang: Exercise induced angina (chest pain) (Yes/No - 1: true, 0: false)
+oldpeak: ST depression induced by exercise relative to rest (measured in mm)
+slope: the slope of the peak exercise ST segment (values vary based on the dataset source)
+ca: number of major vessels (0-3) colored by fluoroscopy
+thal: Thallium stress test results (values vary based on the dataset source)
+target: presence/absence of heart disease (disease: 1, no disease: 0)
+
+This dataset seems to be related to a study on heart disease. It likely includes information about patients, including their demographics, 
+medical history, and results of various tests. The goal  might be to identify patterns that can be used to predict the presence or absence of heart disease.
